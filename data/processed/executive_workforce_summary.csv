@@ -1,0 +1,9 @@
+department,current_headcount,attrition_rate,avg_base_salary,avg_compa_ratio
+Engineering,2070,0.177,131158.55,1.0
+Finance,2008,0.194,133080.52,1.0
+Marketing,2036,0.183,133660.43,1.0
+Operations,2009,0.183,132747.56,0.99
+People,2054,0.18,134812.3,0.99
+Product,2150,0.17,130409.98,1.0
+Sales,2043,0.179,129333.96,0.99
+Support,2006,0.185,132856.83,1.0

@@ -1,0 +1,9 @@
+department,total_employees,terminated_employees,attrition_rate
+Engineering,2515,445,0.177
+Finance,2492,484,0.194
+Marketing,2491,455,0.183
+Operations,2458,449,0.183
+People,2504,450,0.18
+Product,2591,441,0.17
+Sales,2489,446,0.179
+Support,2460,454,0.185
